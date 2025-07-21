@@ -1,0 +1,251 @@
+Visit_ID,Visit_Date,Hospital,Department,Gender,Patient_Age,Diagnosis,Treatment_Type,Treatment_Duration_Days,Outcome
+1,2024-06-22,Green Valley Clinic,Cardiology,Male,18,Eczema,Therapy,18,Recovered
+2,2024-05-09,Green Valley Clinic,Emergency,Male,28,Migraine,Medication,20,Recovered
+3,2024-01-02,Green Valley Clinic,Emergency,Female,58,Fracture,Wound Care,6,Recovered
+4,2024-01-24,Oceanview Hospital,Pediatrics,Male,44,Asthma,Surgery,13,Recovered
+5,2024-05-17,Green Valley Clinic,Pediatrics,Female,6,Asthma,Wound Care,4,Recovered
+6,2024-05-27,Oceanview Hospital,Cardiology,Female,80,Burn Injury,Therapy,7,Under Treatment
+7,2024-01-26,Green Valley Clinic,Cardiology,Male,11,Eczema,Surgery,13,Under Treatment
+8,2024-06-20,Hope Medical Center,Neurology,Male,46,Eczema,Therapy,9,Recovered
+9,2024-04-28,Green Valley Clinic,Emergency,Male,32,Eczema,Surgery,13,Recovered
+10,2024-02-28,Hope Medical Center,Dermatology,Male,42,Eczema,Wound Care,2,Recovered
+11,2024-02-24,Hope Medical Center,Neurology,Female,73,Asthma,Medication,16,Recovered
+12,2024-05-29,Oceanview Hospital,Dermatology,Female,32,Migraine,Surgery,14,Recovered
+13,2024-01-29,Oceanview Hospital,Pediatrics,Male,12,Fracture,Surgery,5,Recovered
+14,2024-05-15,Sunrise Hospital,Dermatology,Female,49,Migraine,Wound Care,9,Recovered
+15,2024-06-13,Green Valley Clinic,Dermatology,Female,69,Eczema,Medication,11,Under Treatment
+16,2024-05-09,Green Valley Clinic,Pediatrics,Male,34,Migraine,Surgery,4,Recovered
+17,2024-05-18,Hope Medical Center,Dermatology,Male,48,Burn Injury,Wound Care,17,Recovered
+18,2024-03-02,Green Valley Clinic,Emergency,Female,47,Asthma,Observation,2,Recovered
+19,2024-02-02,Sunrise Hospital,Emergency,Male,9,Hypertension,Medication,16,Under Treatment
+20,2024-03-20,Sunrise Hospital,Pediatrics,Male,28,Burn Injury,Wound Care,13,Recovered
+21,2024-03-27,Hope Medical Center,Neurology,Male,29,Burn Injury,Observation,1,Recovered
+22,2024-02-28,Sunrise Hospital,Emergency,Male,81,Fracture,Medication,3,Recovered
+23,2024-02-24,Green Valley Clinic,Pediatrics,Female,86,Hypertension,Wound Care,18,Recovered
+24,2024-02-18,Sunrise Hospital,Dermatology,Female,61,Burn Injury,Wound Care,4,Recovered
+25,2024-06-21,Green Valley Clinic,Dermatology,Male,60,Migraine,Therapy,4,Recovered
+26,2024-02-19,Green Valley Clinic,Neurology,Male,14,Eczema,Therapy,7,Under Treatment
+27,2024-04-23,Oceanview Hospital,Orthopedics,Male,32,Migraine,Surgery,18,Recovered
+28,2024-02-12,Green Valley Clinic,Cardiology,Male,12,Eczema,Wound Care,14,Under Treatment
+29,2024-01-01,Oceanview Hospital,Neurology,Female,22,Fracture,Observation,13,Referred
+30,2024-02-09,Hope Medical Center,Neurology,Female,72,Asthma,Observation,7,Under Treatment
+31,2024-01-15,Hope Medical Center,Orthopedics,Female,8,Hypertension,Wound Care,2,Under Treatment
+32,2024-02-17,Oceanview Hospital,Emergency,Male,66,Burn Injury,Surgery,3,Recovered
+33,2024-05-28,Green Valley Clinic,Dermatology,Male,73,Fracture,Observation,20,Recovered
+34,2024-03-07,Green Valley Clinic,Emergency,Female,73,Hypertension,Observation,7,Under Treatment
+35,2024-04-27,Hope Medical Center,Orthopedics,Female,83,Asthma,Observation,11,Recovered
+36,2024-05-17,Green Valley Clinic,Cardiology,Male,13,Migraine,Wound Care,7,Deceased
+37,2024-02-10,Hope Medical Center,Orthopedics,Female,48,Asthma,Medication,15,Referred
+38,2024-06-18,Hope Medical Center,Emergency,Female,71,Eczema,Wound Care,4,Recovered
+39,2024-03-13,Sunrise Hospital,Pediatrics,Female,20,Hypertension,Medication,20,Under Treatment
+40,2024-03-05,Sunrise Hospital,Dermatology,Female,34,Asthma,Surgery,2,Under Treatment
+41,2024-06-12,Green Valley Clinic,Dermatology,Male,43,Migraine,Therapy,9,Recovered
+42,2024-01-29,Sunrise Hospital,Dermatology,Male,72,Migraine,Wound Care,3,Under Treatment
+43,2024-02-02,Sunrise Hospital,Emergency,Female,19,Hypertension,Therapy,2,Recovered
+44,2024-03-31,Hope Medical Center,Pediatrics,Male,32,Hypertension,Therapy,18,Recovered
+45,2024-02-15,Oceanview Hospital,Emergency,Male,31,Eczema,Surgery,14,Referred
+46,2024-03-09,Green Valley Clinic,Orthopedics,Male,53,Eczema,Therapy,6,Under Treatment
+47,2024-03-19,Green Valley Clinic,Neurology,Female,59,Hypertension,Observation,8,Recovered
+48,2024-03-12,Sunrise Hospital,Cardiology,Male,36,Eczema,Surgery,12,Recovered
+49,2024-02-15,Oceanview Hospital,Dermatology,Female,15,Burn Injury,Therapy,19,Referred
+50,2024-06-04,Hope Medical Center,Cardiology,Female,41,Hypertension,Wound Care,17,Recovered
+51,2024-05-13,Green Valley Clinic,Neurology,Male,56,Burn Injury,Surgery,18,Recovered
+52,2024-06-18,Sunrise Hospital,Pediatrics,Female,43,Migraine,Medication,4,Referred
+53,2024-05-21,Hope Medical Center,Emergency,Female,90,Asthma,Observation,5,Recovered
+54,2024-04-13,Sunrise Hospital,Neurology,Female,23,Eczema,Observation,18,Under Treatment
+55,2024-04-29,Green Valley Clinic,Pediatrics,Female,75,Asthma,Surgery,15,Recovered
+56,2024-03-13,Oceanview Hospital,Dermatology,Male,22,Fracture,Wound Care,17,Recovered
+57,2024-01-07,Hope Medical Center,Cardiology,Male,26,Fracture,Therapy,2,Recovered
+58,2024-06-27,Sunrise Hospital,Neurology,Male,81,Burn Injury,Medication,13,Recovered
+59,2024-04-18,Oceanview Hospital,Neurology,Male,1,Fracture,Surgery,8,Under Treatment
+60,2024-04-26,Sunrise Hospital,Dermatology,Male,32,Burn Injury,Observation,5,Recovered
+61,2024-05-20,Oceanview Hospital,Dermatology,Female,57,Burn Injury,Wound Care,15,Recovered
+62,2024-05-13,Sunrise Hospital,Dermatology,Female,32,Migraine,Observation,16,Recovered
+63,2024-03-26,Sunrise Hospital,Pediatrics,Female,31,Migraine,Medication,11,Under Treatment
+64,2024-01-17,Green Valley Clinic,Orthopedics,Male,20,Fracture,Surgery,14,Recovered
+65,2024-04-09,Oceanview Hospital,Pediatrics,Female,27,Burn Injury,Observation,19,Recovered
+66,2024-04-09,Green Valley Clinic,Emergency,Female,46,Migraine,Observation,14,Recovered
+67,2024-03-27,Sunrise Hospital,Neurology,Female,4,Fracture,Therapy,13,Recovered
+68,2024-01-22,Sunrise Hospital,Neurology,Male,51,Fracture,Wound Care,14,Recovered
+69,2024-04-26,Sunrise Hospital,Neurology,Male,42,Fracture,Medication,11,Recovered
+70,2024-01-05,Hope Medical Center,Neurology,Female,11,Asthma,Observation,18,Recovered
+71,2024-01-08,Green Valley Clinic,Pediatrics,Male,84,Fracture,Medication,8,Under Treatment
+72,2024-05-24,Sunrise Hospital,Cardiology,Male,61,Burn Injury,Surgery,7,Recovered
+73,2024-02-11,Oceanview Hospital,Dermatology,Male,78,Asthma,Therapy,10,Recovered
+74,2024-02-20,Green Valley Clinic,Emergency,Female,49,Hypertension,Therapy,3,Recovered
+75,2024-05-24,Sunrise Hospital,Cardiology,Male,77,Eczema,Therapy,2,Referred
+76,2024-01-04,Hope Medical Center,Emergency,Female,83,Migraine,Therapy,14,Recovered
+77,2024-04-21,Oceanview Hospital,Cardiology,Male,59,Migraine,Therapy,6,Under Treatment
+78,2024-03-23,Hope Medical Center,Emergency,Female,76,Burn Injury,Observation,8,Recovered
+79,2024-03-27,Green Valley Clinic,Pediatrics,Female,73,Migraine,Surgery,1,Under Treatment
+80,2024-03-12,Oceanview Hospital,Pediatrics,Female,34,Fracture,Observation,20,Recovered
+81,2024-04-14,Hope Medical Center,Emergency,Male,11,Hypertension,Wound Care,16,Referred
+82,2024-03-16,Sunrise Hospital,Dermatology,Male,3,Migraine,Observation,8,Recovered
+83,2024-05-21,Oceanview Hospital,Dermatology,Female,48,Fracture,Therapy,17,Under Treatment
+84,2024-03-10,Hope Medical Center,Neurology,Female,90,Eczema,Wound Care,10,Recovered
+85,2024-02-19,Hope Medical Center,Orthopedics,Male,69,Hypertension,Surgery,7,Recovered
+86,2024-01-26,Oceanview Hospital,Pediatrics,Female,68,Eczema,Wound Care,7,Deceased
+87,2024-03-11,Hope Medical Center,Orthopedics,Male,69,Asthma,Surgery,2,Recovered
+88,2024-01-04,Green Valley Clinic,Emergency,Male,63,Asthma,Surgery,19,Under Treatment
+89,2024-05-02,Hope Medical Center,Neurology,Female,7,Migraine,Observation,4,Recovered
+90,2024-02-08,Green Valley Clinic,Neurology,Male,88,Migraine,Medication,5,Recovered
+91,2024-05-13,Hope Medical Center,Cardiology,Male,54,Fracture,Medication,13,Recovered
+92,2024-06-05,Oceanview Hospital,Neurology,Male,40,Asthma,Wound Care,4,Deceased
+93,2024-02-14,Sunrise Hospital,Dermatology,Male,21,Fracture,Therapy,18,Under Treatment
+94,2024-03-15,Green Valley Clinic,Orthopedics,Female,77,Hypertension,Observation,2,Recovered
+95,2024-06-24,Sunrise Hospital,Pediatrics,Male,59,Eczema,Therapy,8,Under Treatment
+96,2024-06-14,Hope Medical Center,Dermatology,Male,70,Burn Injury,Surgery,5,Recovered
+97,2024-04-22,Hope Medical Center,Orthopedics,Female,40,Hypertension,Medication,4,Recovered
+98,2024-04-22,Oceanview Hospital,Dermatology,Female,65,Asthma,Observation,3,Referred
+99,2024-02-28,Green Valley Clinic,Neurology,Male,4,Eczema,Therapy,19,Under Treatment
+100,2024-05-12,Green Valley Clinic,Dermatology,Female,23,Asthma,Wound Care,15,Recovered
+101,2024-04-30,Hope Medical Center,Orthopedics,Male,63,Burn Injury,Observation,12,Under Treatment
+102,2024-06-26,Oceanview Hospital,Pediatrics,Female,43,Asthma,Medication,16,Referred
+103,2024-03-05,Hope Medical Center,Dermatology,Female,12,Migraine,Wound Care,11,Recovered
+104,2024-04-15,Green Valley Clinic,Neurology,Female,70,Burn Injury,Medication,2,Under Treatment
+105,2024-01-14,Sunrise Hospital,Emergency,Female,81,Asthma,Wound Care,7,Under Treatment
+106,2024-02-01,Hope Medical Center,Emergency,Female,90,Fracture,Therapy,1,Recovered
+107,2024-01-24,Sunrise Hospital,Dermatology,Female,71,Fracture,Therapy,8,Recovered
+108,2024-04-16,Green Valley Clinic,Neurology,Female,38,Hypertension,Surgery,16,Recovered
+109,2024-01-18,Oceanview Hospital,Orthopedics,Male,25,Migraine,Wound Care,9,Recovered
+110,2024-05-30,Oceanview Hospital,Pediatrics,Female,37,Burn Injury,Therapy,19,Under Treatment
+111,2024-04-26,Oceanview Hospital,Orthopedics,Female,43,Migraine,Wound Care,11,Recovered
+112,2024-03-22,Sunrise Hospital,Dermatology,Male,53,Fracture,Wound Care,16,Recovered
+113,2024-05-08,Oceanview Hospital,Neurology,Male,5,Eczema,Surgery,19,Recovered
+114,2024-02-06,Hope Medical Center,Cardiology,Male,59,Migraine,Medication,14,Recovered
+115,2024-06-15,Sunrise Hospital,Cardiology,Female,89,Migraine,Therapy,3,Recovered
+116,2024-05-18,Hope Medical Center,Dermatology,Female,81,Burn Injury,Observation,2,Deceased
+117,2024-01-26,Green Valley Clinic,Orthopedics,Female,12,Eczema,Therapy,4,Deceased
+118,2024-01-15,Oceanview Hospital,Orthopedics,Female,6,Eczema,Therapy,10,Referred
+119,2024-02-13,Hope Medical Center,Pediatrics,Male,53,Migraine,Surgery,6,Recovered
+120,2024-02-29,Green Valley Clinic,Emergency,Male,64,Migraine,Wound Care,15,Under Treatment
+121,2024-06-22,Hope Medical Center,Neurology,Female,60,Asthma,Medication,18,Referred
+122,2024-06-25,Sunrise Hospital,Cardiology,Female,39,Migraine,Therapy,9,Deceased
+123,2024-04-07,Oceanview Hospital,Pediatrics,Male,14,Fracture,Observation,19,Referred
+124,2024-03-11,Hope Medical Center,Emergency,Female,85,Asthma,Therapy,1,Recovered
+125,2024-06-04,Green Valley Clinic,Emergency,Male,37,Eczema,Observation,12,Under Treatment
+126,2024-06-09,Sunrise Hospital,Dermatology,Male,85,Fracture,Wound Care,4,Recovered
+127,2024-03-16,Green Valley Clinic,Pediatrics,Male,17,Migraine,Medication,11,Recovered
+128,2024-02-12,Oceanview Hospital,Orthopedics,Female,47,Fracture,Surgery,9,Under Treatment
+129,2024-02-06,Oceanview Hospital,Pediatrics,Male,60,Eczema,Therapy,8,Under Treatment
+130,2024-05-17,Oceanview Hospital,Emergency,Female,2,Asthma,Medication,4,Under Treatment
+131,2024-01-28,Oceanview Hospital,Pediatrics,Female,82,Eczema,Therapy,8,Recovered
+132,2024-06-14,Oceanview Hospital,Cardiology,Male,79,Burn Injury,Wound Care,3,Recovered
+133,2024-03-18,Oceanview Hospital,Dermatology,Male,6,Asthma,Observation,16,Recovered
+134,2024-06-20,Green Valley Clinic,Cardiology,Female,59,Fracture,Wound Care,18,Recovered
+135,2024-05-05,Oceanview Hospital,Emergency,Male,84,Eczema,Surgery,20,Referred
+136,2024-04-02,Oceanview Hospital,Pediatrics,Male,57,Hypertension,Therapy,4,Recovered
+137,2024-02-01,Hope Medical Center,Emergency,Male,36,Eczema,Therapy,15,Recovered
+138,2024-03-03,Green Valley Clinic,Dermatology,Female,7,Fracture,Wound Care,5,Deceased
+139,2024-02-07,Sunrise Hospital,Cardiology,Female,30,Burn Injury,Surgery,20,Recovered
+140,2024-06-18,Green Valley Clinic,Pediatrics,Male,23,Fracture,Surgery,1,Recovered
+141,2024-03-08,Sunrise Hospital,Cardiology,Male,3,Asthma,Surgery,2,Recovered
+142,2024-04-24,Sunrise Hospital,Dermatology,Female,9,Migraine,Wound Care,12,Recovered
+143,2024-04-27,Green Valley Clinic,Neurology,Female,6,Burn Injury,Surgery,1,Referred
+144,2024-01-19,Green Valley Clinic,Neurology,Female,63,Migraine,Observation,3,Under Treatment
+145,2024-04-07,Hope Medical Center,Emergency,Female,80,Fracture,Medication,20,Recovered
+146,2024-06-16,Hope Medical Center,Neurology,Male,90,Burn Injury,Wound Care,18,Recovered
+147,2024-04-16,Sunrise Hospital,Neurology,Female,59,Migraine,Surgery,4,Recovered
+148,2024-01-18,Hope Medical Center,Neurology,Female,20,Asthma,Therapy,3,Recovered
+149,2024-05-22,Green Valley Clinic,Cardiology,Male,48,Migraine,Medication,2,Under Treatment
+150,2024-01-14,Hope Medical Center,Dermatology,Female,86,Hypertension,Observation,10,Recovered
+151,2024-02-27,Hope Medical Center,Pediatrics,Female,20,Hypertension,Wound Care,4,Recovered
+152,2024-04-19,Hope Medical Center,Emergency,Male,74,Asthma,Medication,18,Under Treatment
+153,2024-03-27,Green Valley Clinic,Emergency,Female,35,Eczema,Therapy,12,Recovered
+154,2024-06-11,Green Valley Clinic,Orthopedics,Male,9,Fracture,Wound Care,1,Under Treatment
+155,2024-02-10,Green Valley Clinic,Dermatology,Female,59,Burn Injury,Surgery,12,Recovered
+156,2024-02-10,Hope Medical Center,Dermatology,Male,7,Asthma,Wound Care,20,Recovered
+157,2024-06-04,Green Valley Clinic,Dermatology,Female,55,Hypertension,Therapy,15,Recovered
+158,2024-03-13,Oceanview Hospital,Pediatrics,Male,56,Fracture,Wound Care,19,Recovered
+159,2024-01-02,Oceanview Hospital,Emergency,Male,51,Eczema,Therapy,7,Recovered
+160,2024-05-07,Hope Medical Center,Orthopedics,Male,16,Fracture,Therapy,14,Recovered
+161,2024-01-19,Sunrise Hospital,Orthopedics,Female,65,Migraine,Wound Care,13,Under Treatment
+162,2024-05-26,Green Valley Clinic,Neurology,Female,41,Hypertension,Observation,13,Referred
+163,2024-06-07,Oceanview Hospital,Pediatrics,Male,42,Hypertension,Observation,15,Recovered
+164,2024-05-14,Hope Medical Center,Cardiology,Female,76,Migraine,Medication,3,Recovered
+165,2024-05-10,Oceanview Hospital,Pediatrics,Male,22,Eczema,Therapy,4,Recovered
+166,2024-02-20,Sunrise Hospital,Pediatrics,Female,19,Asthma,Surgery,6,Recovered
+167,2024-04-28,Sunrise Hospital,Dermatology,Female,81,Hypertension,Surgery,19,Deceased
+168,2024-02-08,Oceanview Hospital,Dermatology,Female,81,Burn Injury,Wound Care,15,Recovered
+169,2024-03-31,Green Valley Clinic,Neurology,Male,76,Migraine,Therapy,17,Under Treatment
+170,2024-01-20,Green Valley Clinic,Pediatrics,Female,48,Migraine,Observation,3,Recovered
+171,2024-05-26,Oceanview Hospital,Neurology,Female,6,Burn Injury,Wound Care,7,Deceased
+172,2024-01-27,Hope Medical Center,Emergency,Female,8,Migraine,Wound Care,11,Recovered
+173,2024-05-14,Green Valley Clinic,Emergency,Female,57,Eczema,Surgery,17,Recovered
+174,2024-06-10,Sunrise Hospital,Pediatrics,Male,44,Asthma,Therapy,11,Recovered
+175,2024-06-17,Green Valley Clinic,Pediatrics,Female,37,Hypertension,Wound Care,20,Under Treatment
+176,2024-06-16,Sunrise Hospital,Pediatrics,Female,45,Hypertension,Wound Care,13,Under Treatment
+177,2024-02-02,Sunrise Hospital,Emergency,Female,49,Eczema,Medication,17,Recovered
+178,2024-03-20,Green Valley Clinic,Dermatology,Female,3,Eczema,Observation,6,Recovered
+179,2024-01-20,Sunrise Hospital,Pediatrics,Male,18,Migraine,Surgery,10,Recovered
+180,2024-06-01,Green Valley Clinic,Emergency,Male,44,Burn Injury,Wound Care,13,Recovered
+181,2024-01-12,Sunrise Hospital,Orthopedics,Female,22,Fracture,Wound Care,14,Under Treatment
+182,2024-04-24,Hope Medical Center,Dermatology,Female,79,Eczema,Surgery,8,Deceased
+183,2024-04-28,Sunrise Hospital,Pediatrics,Female,74,Migraine,Surgery,10,Recovered
+184,2024-03-05,Oceanview Hospital,Emergency,Male,26,Burn Injury,Observation,2,Deceased
+185,2024-03-13,Oceanview Hospital,Pediatrics,Male,67,Burn Injury,Medication,3,Under Treatment
+186,2024-02-26,Sunrise Hospital,Pediatrics,Male,56,Migraine,Wound Care,15,Recovered
+187,2024-04-08,Hope Medical Center,Cardiology,Male,48,Migraine,Medication,3,Recovered
+188,2024-02-07,Hope Medical Center,Orthopedics,Female,84,Hypertension,Therapy,5,Referred
+189,2024-06-06,Green Valley Clinic,Pediatrics,Female,61,Migraine,Surgery,1,Under Treatment
+190,2024-01-29,Green Valley Clinic,Cardiology,Female,71,Asthma,Surgery,10,Under Treatment
+191,2024-01-17,Sunrise Hospital,Pediatrics,Female,82,Hypertension,Medication,4,Recovered
+192,2024-02-06,Oceanview Hospital,Emergency,Male,74,Burn Injury,Medication,10,Under Treatment
+193,2024-06-19,Oceanview Hospital,Cardiology,Male,54,Burn Injury,Therapy,3,Recovered
+194,2024-04-09,Hope Medical Center,Cardiology,Male,65,Burn Injury,Wound Care,16,Recovered
+195,2024-01-18,Green Valley Clinic,Dermatology,Female,3,Migraine,Therapy,12,Recovered
+196,2024-01-12,Sunrise Hospital,Dermatology,Male,43,Eczema,Medication,12,Under Treatment
+197,2024-02-04,Hope Medical Center,Dermatology,Male,62,Fracture,Observation,3,Deceased
+198,2024-03-21,Oceanview Hospital,Cardiology,Male,26,Asthma,Surgery,10,Recovered
+199,2024-03-14,Oceanview Hospital,Emergency,Male,83,Migraine,Therapy,12,Recovered
+200,2024-04-12,Green Valley Clinic,Dermatology,Female,48,Asthma,Therapy,15,Recovered
+201,2024-01-22,Oceanview Hospital,Pediatrics,Female,48,Fracture,Observation,14,Under Treatment
+202,2024-01-21,Green Valley Clinic,Neurology,Male,42,Burn Injury,Surgery,11,Recovered
+203,2024-03-30,Hope Medical Center,Pediatrics,Female,22,Migraine,Wound Care,15,Under Treatment
+204,2024-01-20,Green Valley Clinic,Dermatology,Male,36,Asthma,Wound Care,13,Deceased
+205,2024-01-09,Hope Medical Center,Emergency,Female,19,Eczema,Surgery,5,Deceased
+206,2024-06-03,Green Valley Clinic,Orthopedics,Male,73,Eczema,Therapy,5,Recovered
+207,2024-05-15,Oceanview Hospital,Pediatrics,Male,74,Asthma,Observation,12,Under Treatment
+208,2024-02-17,Oceanview Hospital,Pediatrics,Male,15,Eczema,Therapy,16,Recovered
+209,2024-06-05,Oceanview Hospital,Emergency,Male,58,Hypertension,Therapy,10,Under Treatment
+210,2024-04-23,Oceanview Hospital,Orthopedics,Male,58,Hypertension,Surgery,3,Referred
+211,2024-02-10,Hope Medical Center,Dermatology,Female,38,Asthma,Medication,6,Recovered
+212,2024-05-06,Hope Medical Center,Emergency,Male,18,Fracture,Medication,1,Deceased
+213,2024-06-05,Hope Medical Center,Emergency,Male,71,Burn Injury,Therapy,3,Recovered
+214,2024-02-02,Green Valley Clinic,Pediatrics,Male,53,Migraine,Observation,11,Recovered
+215,2024-02-03,Green Valley Clinic,Neurology,Male,71,Migraine,Wound Care,14,Recovered
+216,2024-02-27,Green Valley Clinic,Cardiology,Female,21,Burn Injury,Surgery,12,Recovered
+217,2024-02-02,Hope Medical Center,Cardiology,Female,71,Asthma,Surgery,10,Under Treatment
+218,2024-02-13,Green Valley Clinic,Emergency,Male,75,Eczema,Surgery,20,Recovered
+219,2024-06-15,Hope Medical Center,Emergency,Female,83,Hypertension,Medication,7,Recovered
+220,2024-06-13,Oceanview Hospital,Emergency,Female,81,Eczema,Medication,10,Recovered
+221,2024-02-10,Oceanview Hospital,Orthopedics,Male,10,Eczema,Observation,15,Recovered
+222,2024-03-22,Oceanview Hospital,Neurology,Female,19,Migraine,Surgery,12,Recovered
+223,2024-04-29,Oceanview Hospital,Orthopedics,Male,41,Asthma,Wound Care,4,Recovered
+224,2024-06-06,Hope Medical Center,Neurology,Female,38,Fracture,Surgery,14,Recovered
+225,2024-05-07,Sunrise Hospital,Orthopedics,Male,25,Asthma,Wound Care,17,Under Treatment
+226,2024-03-02,Oceanview Hospital,Neurology,Female,51,Asthma,Observation,7,Recovered
+227,2024-03-14,Hope Medical Center,Cardiology,Female,84,Hypertension,Therapy,18,Recovered
+228,2024-04-03,Green Valley Clinic,Cardiology,Female,47,Migraine,Surgery,2,Referred
+229,2024-01-19,Oceanview Hospital,Cardiology,Female,71,Burn Injury,Wound Care,13,Recovered
+230,2024-01-25,Oceanview Hospital,Emergency,Male,16,Asthma,Wound Care,13,Under Treatment
+231,2024-05-08,Hope Medical Center,Pediatrics,Female,26,Burn Injury,Therapy,2,Under Treatment
+232,2024-02-08,Green Valley Clinic,Cardiology,Female,67,Fracture,Therapy,20,Under Treatment
+233,2024-05-31,Sunrise Hospital,Pediatrics,Female,79,Burn Injury,Therapy,11,Recovered
+234,2024-03-25,Oceanview Hospital,Dermatology,Female,3,Burn Injury,Therapy,4,Recovered
+235,2024-01-14,Oceanview Hospital,Emergency,Male,34,Asthma,Medication,19,Recovered
+236,2024-06-23,Oceanview Hospital,Orthopedics,Male,49,Burn Injury,Wound Care,8,Under Treatment
+237,2024-04-17,Green Valley Clinic,Emergency,Female,57,Eczema,Medication,5,Recovered
+238,2024-01-16,Oceanview Hospital,Dermatology,Female,79,Fracture,Observation,5,Recovered
+239,2024-04-27,Sunrise Hospital,Emergency,Male,41,Asthma,Observation,18,Recovered
+240,2024-03-12,Hope Medical Center,Emergency,Male,25,Asthma,Therapy,18,Under Treatment
+241,2024-03-22,Hope Medical Center,Orthopedics,Female,89,Asthma,Therapy,16,Under Treatment
+242,2024-04-11,Hope Medical Center,Emergency,Female,74,Eczema,Therapy,12,Recovered
+243,2024-04-23,Sunrise Hospital,Pediatrics,Female,11,Hypertension,Therapy,9,Deceased
+244,2024-02-05,Oceanview Hospital,Orthopedics,Female,72,Fracture,Wound Care,4,Recovered
+245,2024-01-26,Sunrise Hospital,Orthopedics,Male,30,Hypertension,Wound Care,14,Recovered
+246,2024-05-20,Hope Medical Center,Dermatology,Male,18,Migraine,Medication,6,Under Treatment
+247,2024-03-14,Oceanview Hospital,Dermatology,Female,37,Migraine,Observation,2,Under Treatment
+248,2024-04-16,Green Valley Clinic,Dermatology,Male,5,Burn Injury,Surgery,6,Recovered
+249,2024-01-03,Green Valley Clinic,Neurology,Male,38,Migraine,Surgery,10,Referred
+250,2024-02-04,Green Valley Clinic,Pediatrics,Female,70,Asthma,Observation,17,Deceased
